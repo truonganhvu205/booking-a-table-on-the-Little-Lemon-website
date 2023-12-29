@@ -1,9 +1,9 @@
 <table align='center'>
   <tr align='center'>
     <td>Home</td>
-    <td>Step 1</td>
-    <td>Step 2</td>
-    <td>Success</td>
+    <td>Reserve a table - Step 1</td>
+    <td>Reserve a table - Step 2</td>
+    <td>Reserve success</td>
   </tr>
   <tr align='center'>
     <td>
