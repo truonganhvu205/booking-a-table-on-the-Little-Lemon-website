@@ -1,3 +1,10 @@
+# Clone project
+```bash
+git init
+git clone https://github.com/truonganhvu205/booking-a-table-on-the-Little-Lemon-website-figma.git
+```
+
+# Preview project
 <table align='center'>
   <tr align='center'>
     <td>Home</td>
